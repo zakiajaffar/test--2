@@ -1,0 +1,78 @@
+.key {
+    font-family: 'Arvo', serif;
+}
+.main-div{
+	 text-align: -webkit-center;
+	 background-color: #a9d0da;
+	 height: 100vh;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+}
+.btn{
+	margin: 4px;
+}
+.input{
+	width: 100%;
+	margin: 20px 0;
+	padding: 4%;
+	border: 1.5px solid #d8d6c4;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+
+}
+.btn-group{
+	display: block !important;
+}
+.img{
+	background-image: url("images/keyboard-key.png");
+	height: 50px;
+	width: 48px;
+	background-position: center;
+	background-size: cover;
+	
+	padding: 12px;
+
+}
+.first-row{
+	text-align: center;
+	display: table-cell;
+	background-color: white;
+
+}
+.second-row{
+	text-align: center;
+	display: table-cell;
+	background-color: white;
+}
+
+.third-row{
+	text-align: center;
+	display: table-cell;
+	background-color: white;
+}
+.color{
+	background-color: white;
+	width: 34%;
+}
+.space{
+	background-image: url("images/space-bar-key.png");
+	height: 45px;
+	width: 35%;
+	background-size: cover;
+	background-position: center;
+	
+}
+.last-div{
+	
+}
+.inline{
+	display: inline;
+}
+
+
+
+
+
